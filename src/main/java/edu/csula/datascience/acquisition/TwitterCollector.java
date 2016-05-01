@@ -1,4 +1,4 @@
-package edu.csula.datascience.acquisition;
+/*package edu.csula.datascience.acquisition;
 
 import com.mongodb.MongoClient;
 import com.mongodb.client.MongoCollection;
@@ -10,9 +10,9 @@ import java.util.Collection;
 import java.util.List;
 import java.util.stream.Collectors;
 
-/**
+*//**
  * An example of Collector implementation using Twitter4j with MongoDB Java driver
- */
+ *//*
 public class TwitterCollector implements Collector<Status, Status> {
     MongoClient mongoClient;
     MongoDatabase database;
@@ -46,3 +46,4 @@ public class TwitterCollector implements Collector<Status, Status> {
         collection.insertMany(documents);
     }
 }
+*/
