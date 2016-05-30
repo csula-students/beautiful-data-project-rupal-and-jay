@@ -14,5 +14,7 @@ import java.util.Iterator;
  * After storing these objects in memory, then you can download them using
  * Collector#mungee
  */
-public interface Source<T> extends Iterator<Collection<T>> {
+public interface Source<T> extends Iterator<Collection<T>>
+{
+	void getEarthQuakeData();
 }

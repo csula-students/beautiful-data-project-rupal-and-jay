@@ -1,11 +1,11 @@
-package edu.csula.datascience.acquisition;
+/*package edu.csula.datascience.acquisition;
 
 import java.util.Collection;
 import java.util.stream.Collectors;
 
-/**
+*//**
  * A mock implementation of collector for testing
- */
+ *//*
 public class MockCollector implements Collector<SimpleModel, MockData> {
     @Override
     public Collection<SimpleModel> mungee(Collection<MockData> src) {
@@ -21,3 +21,4 @@ public class MockCollector implements Collector<SimpleModel, MockData> {
     public void save(Collection<SimpleModel> data) {
     }
 }
+*/

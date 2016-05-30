@@ -1,13 +1,13 @@
-package edu.csula.datascience.acquisition;
+/*package edu.csula.datascience.acquisition;
 
 import com.google.common.collect.Lists;
 
 import java.util.Collection;
 import java.util.function.Consumer;
 
-/**
+*//**
  * A mock source to provide data
- */
+ *//*
 public class MockSource implements Source<MockData> {
     int index = 0;
 
@@ -25,3 +25,4 @@ public class MockSource implements Source<MockData> {
         );
     }
 }
+*/

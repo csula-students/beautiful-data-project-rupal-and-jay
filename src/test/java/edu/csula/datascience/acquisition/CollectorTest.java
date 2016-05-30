@@ -1,4 +1,4 @@
-package edu.csula.datascience.acquisition;
+/*package edu.csula.datascience.acquisition;
 
 import com.google.common.collect.Lists;
 import org.junit.Assert;
@@ -10,9 +10,9 @@ import java.util.List;
 
 import static org.junit.Assert.*;
 
-/**
+*//**
  * A test case to show how to use Collector and Source
- */
+ *//*
 public class CollectorTest {
     private Collector<SimpleModel, MockData> collector;
     private Source<MockData> source;
@@ -38,4 +38,4 @@ public class CollectorTest {
             Assert.assertEquals(list.get(i).getContent(), expectedList.get(i).getContent());
         }
     }
-}
+}*/

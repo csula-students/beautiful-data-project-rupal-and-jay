@@ -1,4 +1,4 @@
-package edu.csula.datascience.acquisition;
+/*package edu.csula.datascience.acquisition;
 
 import com.google.common.collect.Lists;
 import twitter4j.*;
@@ -7,9 +7,9 @@ import twitter4j.conf.ConfigurationBuilder;
 import java.util.Collection;
 import java.util.List;
 
-/**
+*//**
  * An example of Source implementation using Twitter4j api to grab tweets
- */
+ *//*
 public class TwitterSource implements Source<Status> {
     private long minId;
     private final String searchQuery;
@@ -77,3 +77,4 @@ public class TwitterSource implements Source<Status> {
         return list;
     }
 }
+*/
